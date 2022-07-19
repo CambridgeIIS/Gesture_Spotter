@@ -29,23 +29,23 @@ Use pip to set up the environments.
   $ python gui_main.py
 ```
 
-- **API Examples**
-Synthesize the data for data augmentation:
+#### API Examples
+- **Synthesize the data for data augmentation**
 ```
   Synthesize_Data.ipynb
 ```
 
-Model trainig and evaluation:
+- **Model trainig and evaluation**
 ```
   train_eval.ipynb
 ```
 
-Online evaluation of the model:
+- **Online evaluation of the model**
 ```
   eval_online.ipynb
 ```
 
-Gesture visualization:
+- **Gesture visualization**
 ```
   GestureDisplay.ipynb
 ```
