@@ -33,7 +33,7 @@ Use pip to set up the environments.
   Synthesize_Data.ipynb
 ```
 
-- **Model trainig and evaluation**
+- **Model training and evaluation**
 ```
   train_eval.ipynb
 ```
